@@ -1,1 +1,1 @@
-file --mime-type -m school.mgc *
+file -L
